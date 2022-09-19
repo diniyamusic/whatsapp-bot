@@ -49,7 +49,7 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "DINIYA chatbot",
             "required": true,
             "value":"Raganork"
         },
